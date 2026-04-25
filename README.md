@@ -18,7 +18,7 @@ It combines practical machine learning engineering with data mining methodology,
 - Feature importance analysis
 - Leakage detection
 
-> Goal: Build a reliable, interpretable, and high-performance classification model for fitness level prediction.
+>**Goal: Build a reliable, interpretable, and high-performance classification model for fitness level prediction.**
 
 ---
 
